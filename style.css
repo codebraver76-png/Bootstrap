@@ -1,0 +1,11 @@
+#box{
+    height: 100px;
+    width: 100px;
+    background-color: aqua ;
+    border-style:solid;
+
+    
+}
+#btn{
+    margin-top: 20px;
+}
